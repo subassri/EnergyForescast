@@ -1,4 +1,4 @@
-# Energy Forecast
+# PowerPulse: Household Energy Usage Forecast
 ## Overview
 This repository contains code for predicting household energy consumption using machine learning models. The code loads a dataset, performs exploratory data analysis, preprocesses the data, trains multiple models, and evaluates their performance.
 
